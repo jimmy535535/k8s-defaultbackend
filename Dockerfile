@@ -1,4 +1,4 @@
 #For don't connect to gcr.io in china.
-FROM gcr.io/google_containers/defaultbackend:1.4
+FROM gcr.io/google-containers/defaultbackend-amd64:1.5
 
-MAINTAINER siriuszg <zhigang52110@sina.com>
+LABEL MAINTAINER="siriuszg <zhigang52110@sina.com>"
